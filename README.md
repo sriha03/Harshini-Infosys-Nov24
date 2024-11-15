@@ -1,0 +1,1 @@
+This project aims to forecast product demand using historical sales data. By applying time series analysis and multivariate regression, we predict future demand with high accuracy. It integrates key performance indicators (KPIs) from Google Analytics, such as clicks and impressions, to improve the forecasting model.
